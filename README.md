@@ -1,11 +1,5 @@
-This is the main repository for the _Programming Historian_ (<http://programminghistorian.org>), where we keep the files for the live website. 
+This is the main repository for _Project Hedgehog_ (<http://adjacent.furniture>), the home for the fundraising efforts organized to privately sponsor a family to be able to move to Whitehorse. 
 
-For tutorials in submission, please see: [_Programming Historian Submissions_](https://github.com/programminghistorian/ph-submissions).
+Many thanks to the [Programming Historian](https://github.com/programminghistorian/) for open-sourcing their template and repository.
 
-If you have suggestions for the site or project, please click on the [Issues Tab](https://github.com/programminghistorian/jekyll/issues) above, and click [New Issue](https://github.com/programminghistorian/jekyll/issues/new) to describe your idea. Please note this will be public. If you would like to correspond with us privately, please contact [Anandi Silva Knuppel](mailto:anandi.silva.knuppel@emory.edu). 
-
-If you would like to contribute to the project, you can find detailed instructions for authors, reviewers, and editors on the [contributions page](http://programminghistorian.org/contribute) of the website.
-
-For technical contributions to the project or to read about our policies for new language sub teams interested in creating a translation, please read our [Project Wiki](https://github.com/programminghistorian/jekyll/wiki).
-
-Our technical manager is Matthew Lincoln (@mdlincoln).
+Contact Asad Chishti, [@asad_ch](https://twitter.com/asad_ch), [email](mailto:asad[at]adjacent.furniture) for questions, comments, concerns, feedback and more.
