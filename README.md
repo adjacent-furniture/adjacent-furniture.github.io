@@ -1,4 +1,4 @@
-This is the main repository for _Project Hedgehog_ (<http://adjacent.furniture>), the home for the fundraising efforts organized to privately sponsor a family to be able to move to Whitehorse. 
+This is the main repository for _Adjacent Furniture_ (<http://adjacent.furniture>), the sister project of [Chairs and Tables](https://chrtbl.com). 
 
 Many thanks to the [Programming Historian](https://github.com/programminghistorian/) for open-sourcing their template and repository.
 
